@@ -7,10 +7,9 @@ The goal of noearsPackage is to ...
 
 ## Installation
 
-You can install the released version of noearsPackage from [CRAN](https://CRAN.R-project.org) with:
 
 ``` r
-install.packages("noearsPackage")
+devtools::install_github("noears/noearsPackage")
 ```
 
 ## Example
